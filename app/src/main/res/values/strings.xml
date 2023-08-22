@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">ЕвроХим</string>
+    <string name="wb_fs_welcome">Добро\nпожаловать\nв ЕвроХим!</string>
+    <string name="wb_nav_screen_know_ech">Что нужно знать о ЕвроХиме?</string>
+    <string name="wb_nav_screen_company_scale">Масштаб компании</string>
+    <string name="wb_nav_screen_our_divisions">Наши дивизионы</string>
+    <string name="wb_descr_menu">menu</string>
+    <string name="eurochem">eurochem</string>
+    <string name="logo_eurochem">logo eurochem</string>
+    <string name="wb_scale_company">Масштаб компании</string>
+    <string name="wb_sc_description_1"> - один из ведущих производителей</string>
+    <string name="wb_sc_description_2">минеральных удобрений в мире.</string>
+    <string name="wb_sc_count_facilities">75 предприятий</string>
+    <string name="wb_sc_cf_description">Мы работаем по всему миру(в России, Казахстане, Бельгии, Китае, Бразилии). Мы выпускаем азотные, фосфорные и калийные удобрения, разрабатывая крупнейшие месторождения руды</string>
+    <string name="wb_sc_count_employers">>27 000 сотрудников</string>
+    <string name="wb_sc_ce_descriptor">Наш успех обеспечивает надежная команда талантливых специалистов. Еврохим привлекает целеустремленных и перспективных сотрудников своей стабильностью,конкуретноспособной зарплатой, возможностями профессионального развития и карьерного роста.</string>
+    <string name="wb_sc_know_more">Узнайте\nбольше</string>
+    <string name="wb_sc_first">Еврохим - мировой\nпроизводитель\nминеральных\nудобрений</string>
+    <string name="wb_sc_second">Что такое\nминеральные\nудобрения?</string>
+    <string name="wb_sc_third">На переднем\nкрае инновационного\nземледелия</string>
+    <string name="wb_sc_fourth">Мы - ЕвроХим\nОт рудника\nдо фермы</string>
+    <string name="wb_sc_fifth">Мы помогаем\nмиру расти</string>
+    <string name="engineer">engineer</string>
+    <string name="facility">facility</string>
+</resources>
